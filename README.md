@@ -30,3 +30,7 @@ IntelliJ Community Edition is required for the build.
 After importing required external libraries, go to Project Structure - Project Settings - Modules - (project name) - Dependencies, and make sure the Scope of the `TerrarumBuild` is set to `Provided`, like the following image:
 
 ![.](buildsetup_intellij.png)
+
+## So What I Can Do Exactly?
+
+Please refer to `net.torvald.terrarum.ModMgr` and [the Wiki](https://github.com/curioustorvald/Terrarum/wiki/Developer-Portal) as a starting point (the Wiki might be outdated though), and then, eventually, the entire source code of the game. Unfortunately I'm the one-man-crew and simply have not got enough time to write up neat development guides of any sort, apologies.
