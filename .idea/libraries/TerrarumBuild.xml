@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="TerrarumBuild">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/lib/TerrarumBuild.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TerrarumBuild.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/TerrarumBuild.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/TerrarumBuild.jar!/" />
+    </SOURCES>
+  </library>
+</component>
